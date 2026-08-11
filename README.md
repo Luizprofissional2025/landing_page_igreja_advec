@@ -28,9 +28,7 @@ O **ADVEC** é uma landing page desenvolvida durante minha jornada de aprendizad
 
 O projeto foi criado com o objetivo de praticar a construção de uma página institucional utilizando **HTML5, CSS3 e Bootstrap**, explorando componentes visuais, responsividade e organização de conteúdo.
 
-A página reúne diferentes informações e recursos relacionados à igreja em uma única interface.
-
-> 🚧 **Este projeto ainda está em desenvolvimento e poderá receber novas melhorias e funcionalidades.**
+A página reúne diferentes informações e recursos relacionados à igreja em uma única interface
 
 ---
 
