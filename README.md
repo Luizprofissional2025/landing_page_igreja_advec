@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Preview da Landing Page](./preview.png)
+![Preview da Landing Page](./Sobre-img/preview.png)
 
 </div>
 
