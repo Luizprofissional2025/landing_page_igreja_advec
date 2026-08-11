@@ -128,9 +128,8 @@ Este projeto também faz parte da minha evolução como desenvolvedor, permitind
 
 [![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Luizprofissional2025/landing_page_igreja_advec)
 
-### 👀 Preview / Deploy
-
-[![Deploy]([https://img.shields.io/badge/Ver%20Projeto-Vercel-black?style=for-the-badge\&logo=vercel)](https://ebac-motors-rouge.vercel.app/]([https://landing-page-igreja-advec.vercel.app/](https://landing-page-igreja-advec.vercel.app/))
+🚀 Deploy
+https://landing-page-igreja-advec.vercel.app/
 
 ---
 
