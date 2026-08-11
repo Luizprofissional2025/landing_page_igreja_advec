@@ -128,7 +128,12 @@ Este projeto também faz parte da minha evolução como desenvolvedor, permitind
 
 [![GitHub](https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Luizprofissional2025/landing_page_igreja_advec)
 
-🚀 Deploy
+
+### 👀 Preview / Deploy
+
+[![Deploy](https://img.shields.io/badge/Ver%20Projeto-Vercel-black?style=for-the-badge\&logo=vercel)](https://landing-page-igreja-advec.vercel.app/)
+
+**🔗 Acessar projeto:**
 https://landing-page-igreja-advec.vercel.app/
 
 ---
